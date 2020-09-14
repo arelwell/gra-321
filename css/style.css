@@ -6,9 +6,23 @@ h1 {
   color:AntiqueWhite
 }
 
-button-1 {
+.button {
   background-color:AntiqueWhite
   border: none;
   color:DarkGray
+  text-align:center;
+  font-size: 16px
   font-family:Arial, sans-serif;
+}
+
+.container {
+  background-image: url(https://unsplash.com/photos/fzWwFJ9m_pg);
+  background-size: cover;
+  height: 700px
+  margin: 0 auto;
+  width: 50%
+}
+h1 {
+  color:#fff
+  font-size
 }
