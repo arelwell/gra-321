@@ -17,11 +17,11 @@ h1 {
 }
 
 .container {
-  background-image: url(https://unsplash.com/photos/fzWwFJ9m_pg);
+  background-image: url(https://images.unsplash.com/photo-1599480424128-4f8eebef947b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
   background-size: cover;
-  height: 700px
+  height:700px;
   margin: 0 auto;
-  width: 50%
+  width:50%;
 }
 h1 {
   color:#fff
