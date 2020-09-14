@@ -5,3 +5,10 @@ background-color: IndianRed;
 h1 {
   color:AntiqueWhite
 }
+
+button-1 {
+  background-color:AntiqueWhite
+  border: none;
+  color:DarkGray
+  font-family:Arial, sans-serif;
+}
