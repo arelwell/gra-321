@@ -24,6 +24,9 @@ h1 {
   width:50%;
 }
 h1 {
-  color:#fff
-  font-size
+  color:#fff;
+  font-size:52px;
+  position:relative;
+  text-align:center;
+  top:200px
 }
