@@ -42,7 +42,7 @@ h2 {
   top:200px
 }
 
-.padding-hover {
+.padding-hover:hover {
   background-color: AntiqueWhite;
   color: IndianRed;
   text-decoration:underline;
